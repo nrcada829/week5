@@ -1,0 +1,92 @@
+body {
+  font-family: 'Lato','Roboto Mono',monospace, sans-serif; }
+
+a {
+  text-decoration: none;
+  color: #212529; }
+
+img {
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.arrow-down {
+  color: #198754; }
+
+.page-icon {
+  color: #212529; }
+
+.sidebar {
+  width: 296px;
+  height: 100vh; }
+  .sidebar .nav-link {
+    color: #212529;
+    padding: 0 32px 24px; }
+  .sidebar .user {
+    padding: 32px; }
+    .sidebar .user h2 {
+      margin-bottom: 4px; }
+    .sidebar .user p {
+      color: #6C757D;
+      font-size: 14px; }
+
+.assignment {
+  padding: 32px; }
+  .assignment .header {
+    margin-bottom: 40px; }
+  .assignment .title {
+    font-size: 24px;
+    line-height: 33px;
+    color: #212529; }
+  .assignment .allCourse {
+    color: #212529; }
+  .assignment .icon a {
+    color: #212529; }
+  .assignment .comments {
+    font-size: 12px;
+    color: #6C757D; }
+  .assignment .list-group {
+    line-height: 24px; }
+    .assignment .list-group .list-group-item {
+      padding: 12px; }
+    .assignment .list-group .heading, .assignment .list-group .time {
+      font-size: 12px; }
+    .assignment .list-group .homework-title {
+      color: #212529;
+      font-size: 16px; }
+    .assignment .list-group .name {
+      font-size: 12px;
+      color: #6C757D; }
+    .assignment .list-group .list-group-item.active {
+      background-color: #F8F9FA;
+      border: 1px solid #CED4DA;
+      color: #212529; }
+  .assignment .card .card-header {
+    padding: 12px 16px; }
+    .assignment .card .card-header .card-title p {
+      font-size: 12px; }
+    .assignment .card .card-header .card-title h3 {
+      font-weight: 700;
+      font-size: 20px;
+      color: #212529; }
+    .assignment .card .card-header .card-icon {
+      color: #212529; }
+  .assignment .card .card-body {
+    padding: 16px 32px 22px 16px; }
+  .assignment .card .personal-info h4 {
+    color: #212529;
+    font-size: 16px;
+    font-weight: 700; }
+  .assignment .card .personal-info span {
+    font-size: 12px;
+    color: #6C757D; }
+  .assignment .card .personal-info p {
+    font-size: 14px;
+    line-height: 20px; }
+  .assignment .card .personal-info .btn {
+    padding: 8px 12px; }
+  .assignment .card .personal-info .icon {
+    font-size: 24px; }
+  .assignment .card .personal-info .line {
+    color: #CED4DA; }
+
+/*# sourceMappingURL=all.css.map */
